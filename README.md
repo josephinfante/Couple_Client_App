@@ -1,4 +1,4 @@
-## Couple_Client_App
+## Couple client app
 
 ### Requirements
 
